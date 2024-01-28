@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\10250\Desktop\C++\ConsoleApplication1\ConsoleApplication1\源.cpp(85,165): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  md5.cpp
+C:\Users\10250\Desktop\C++\ConsoleApplication1\ConsoleApplication1\md5.cpp(86,39): warning C4267: “参数”: 从“size_t”转换到“MD5::size_type”，可能丢失数据
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\10250\Desktop\C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
